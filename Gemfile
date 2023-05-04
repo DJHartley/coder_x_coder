@@ -6,7 +6,7 @@ gem 'faker', '1.0.1'
 gem 'bootstrap-sass', '2.0.0'
 gem 'will_paginate', '3.0.3'
 gem 'bootstrap-will_paginate', '0.0.5'
-gem 'jquery-rails', '2.0.0'
+gem 'jquery-rails', '3.1.5'
 
 # Markdown
 gem "rdiscount", "~> 1.6.8"
